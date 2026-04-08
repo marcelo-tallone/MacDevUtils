@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+
+# macOS
+.DS_Store
+*.swp
+
+# Generated icons
+MacDevUtils.icns
+MacDevUtils.iconset/*.png
+
+# Claude Code
+.claude/
